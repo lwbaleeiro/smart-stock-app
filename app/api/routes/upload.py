@@ -24,6 +24,16 @@ def run_ml_pipeline_task(products_df: pd.DataFrame, sales_df: pd.DataFrame):
         db = SessionLocal()
         try:
             save_products_to_db(db, products_df)
+
+            # Filtrar vendas para incluir apenas produtos que existem no CSV de produtos
+            valid_product_ids = set(products_df['produto_id'].unique())
+            initial_sales_count = len(sales_df)
+            sales_df = sales_df[sales_df['produto_id'].isin(valid_product_ids)]
+            filtered_sales_count = len(sales_df)
+            
+            if initial_sales_count != filtered_sales_count:
+                print(f"Filtrando vendas: {initial_sales_count - filtered_sales_count} registros removidos pois os produtos não foram encontrados.", flush=True)
+
             feature_dfs = create_prophet_features(sales_df)
             trained_models = train_models_for_products(feature_dfs)
             predictions = generate_predictions(trained_models, days_to_predict=90)

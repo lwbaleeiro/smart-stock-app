@@ -61,7 +61,12 @@ def clean_sales_data(file_obj: BinaryIO) -> pd.DataFrame:
     df = pd.read_csv(buffer)
 
     # Corrigir tipos de dados
-    df['data_pedido'] = pd.to_datetime(df['data_pedido'], format='%d/%m/%Y', errors='coerce')
+    # Tentar formato ISO (YYYY-MM-DD) primeiro
+    iso_dates = pd.to_datetime(df['data_pedido'], format='%Y-%m-%d', errors='coerce')
+    # Tentar formato BR (DD/MM/YYYY) para os que falharam
+    br_dates = pd.to_datetime(df['data_pedido'], format='%d/%m/%Y', errors='coerce')
+    
+    df['data_pedido'] = iso_dates.fillna(br_dates)
     numeric_cols = ['valor_unitario', 'valor_total_pedido', 'quantidade']
     for col in numeric_cols:
         df[col] = pd.to_numeric(df[col], errors='coerce')

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pandas
+polars
+prophet
+scikit-learn
+boto3
+SQLAlchemy
+psycopg2-binary
+pydantic-settings
+pytest
+httpx
+pyarrow
+python-multipart
+plotly

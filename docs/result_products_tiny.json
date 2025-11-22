@@ -1,0 +1,1710 @@
+{
+	"retorno": {
+		"status_processamento": "3",
+		"status": "OK",
+		"pagina": 1,
+		"numero_paginas": 11,
+		"produtos": [
+			{
+				"produto": {
+					"id": "916571385",
+					"data_criacao": "28/08/2025 09:50:06",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009",
+					"codigo": "KBA1011",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571426",
+					"data_criacao": "28/08/2025 09:50:09",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - azul marinho+azul marinho - G",
+					"codigo": "KBA1011-7-G",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297847846",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571430",
+					"data_criacao": "28/08/2025 09:50:10",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - azul marinho+azul marinho - GG",
+					"codigo": "KBA1011-7-GG",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297847914",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571422",
+					"data_criacao": "28/08/2025 09:50:09",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - azul marinho+azul marinho - M",
+					"codigo": "KBA1011-7-1-M",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297847778",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571400",
+					"data_criacao": "28/08/2025 09:50:06",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - Cinza+Cinza - G",
+					"codigo": "KBA1011-6-G",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297837878",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571404",
+					"data_criacao": "28/08/2025 09:50:07",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - Cinza+Cinza - GG",
+					"codigo": "KBA1011-6-GG",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297848225",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571396",
+					"data_criacao": "28/08/2025 09:50:06",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - Cinza+Cinza - M",
+					"codigo": "KBA1011-6-M",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297837809",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571439",
+					"data_criacao": "28/08/2025 09:50:10",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - preto+preto - G",
+					"codigo": "KBA1011-1-G",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297838561",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571445",
+					"data_criacao": "28/08/2025 09:50:11",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - preto+preto - GG",
+					"codigo": "KBA1011-1-GG",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297838639",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571435",
+					"data_criacao": "28/08/2025 09:50:10",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - preto+preto - M",
+					"codigo": "KBA1011-1-M",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297838493",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571412",
+					"data_criacao": "28/08/2025 09:50:08",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - preto+vermelho - G",
+					"codigo": "KBA1011-12-1-G",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297857746",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571417",
+					"data_criacao": "28/08/2025 09:50:08",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - preto+vermelho - GG",
+					"codigo": "KBA1011-12-1-GG",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297857814",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916571408",
+					"data_criacao": "28/08/2025 09:50:07",
+					"nome": " Kit 1 Sueter BA1038 + 1 Colete BA1009 - preto+vermelho - M",
+					"codigo": "KBA1011-12-1-M",
+					"preco": 0,
+					"preco_promocional": 0,
+					"unidade": "un",
+					"gtin": "7794297848393",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916577802",
+					"data_criacao": "28/08/2025 14:08:01",
+					"nome": " Kit 2 Colete BA1039 ",
+					"codigo": "KBA1046-6",
+					"preco": 160,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297888139",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "916577789",
+					"data_criacao": "28/08/2025 14:07:59",
+					"nome": " Kit 2 Colete BA1039 ",
+					"codigo": "KBA1046-5",
+					"preco": 160,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297887828",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057527",
+					"data_criacao": "01/08/2024 10:00:24",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa",
+					"codigo": "BA1006",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057666",
+					"data_criacao": "01/08/2024 10:00:33",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Azul-marinho - G",
+					"codigo": "BA1006-7-G",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820496206",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057993",
+					"data_criacao": "01/08/2024 10:00:43",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Azul-marinho - GG",
+					"codigo": "BA1006-7-GG",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820505588",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057958",
+					"data_criacao": "01/08/2024 10:00:58",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Azul-marinho - M",
+					"codigo": "BA1006-7-M",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820505410",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "914453018",
+					"data_criacao": "01/07/2025 08:01:48",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Azul-marinho - P",
+					"codigo": "BA1006-7-P",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794601391966",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815058131",
+					"data_criacao": "01/08/2024 10:01:09",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Cinza - G",
+					"codigo": "BA1006-6-G",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820525524",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815058105",
+					"data_criacao": "01/08/2024 10:01:20",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Cinza - GG",
+					"codigo": "BA1006-6-GG",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820525760",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815058083",
+					"data_criacao": "01/08/2024 10:01:29",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Cinza - M",
+					"codigo": "BA1006-6-M",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820525692",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "914453034",
+					"data_criacao": "01/07/2025 08:01:50",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Cinza - P",
+					"codigo": "BA1006-6-P",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794601382681",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057898",
+					"data_criacao": "01/08/2024 10:01:39",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Preto - G",
+					"codigo": "BA1006-1-G",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820516171",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057931",
+					"data_criacao": "01/08/2024 10:01:50",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Preto - GG",
+					"codigo": "BA1006-1-GG",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820525388",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057879",
+					"data_criacao": "01/08/2024 10:02:03",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Preto - M",
+					"codigo": "BA1006-1-M",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820516249",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "914453029",
+					"data_criacao": "01/07/2025 08:01:49",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Preto - P",
+					"codigo": "BA1006-1-P",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794601391829",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057765",
+					"data_criacao": "01/08/2024 10:02:13",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Vermelho - G",
+					"codigo": "BA1006-12-G",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820525906",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057845",
+					"data_criacao": "01/08/2024 10:02:24",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Vermelho - GG",
+					"codigo": "BA1006-12-GG",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820526217",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815057693",
+					"data_criacao": "01/08/2024 10:02:35",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Vermelho - M",
+					"codigo": "BA1006-12-M",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820526071",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 32,
+					"preco_custo_medio": 32,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "914453025",
+					"data_criacao": "01/07/2025 08:01:49",
+					"nome": "Blusa Cardigan Casaco Trico Lã Masculina Escocesa - Vermelho - P",
+					"codigo": "BA1006-12-P",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794601391898",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059448",
+					"data_criacao": "01/08/2024 10:02:50",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino",
+					"codigo": "BA1038",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906493934",
+					"data_criacao": "05/12/2024 15:12:18",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Azul Marinho - G",
+					"codigo": "BA1038-7-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297698677",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906493939",
+					"data_criacao": "05/12/2024 15:12:20",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Azul Marinho - GG",
+					"codigo": "BA1038-7-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297707713",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906493930",
+					"data_criacao": "05/12/2024 15:12:14",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Azul Marinho - M",
+					"codigo": "BA1038-7-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297698608",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059586",
+					"data_criacao": "01/08/2024 10:02:59",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Cinza - G",
+					"codigo": "BA1038-6-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820685907",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526210",
+					"data_criacao": "28/10/2024 09:41:12",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Cinza - GG",
+					"codigo": "BA1038-6-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297968183",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059509",
+					"data_criacao": "01/08/2024 10:03:10",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Cinza - M",
+					"codigo": "BA1038-6-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820685839",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059559",
+					"data_criacao": "01/08/2024 10:03:26",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Preto - G",
+					"codigo": "BA1038-1-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820685761",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526215",
+					"data_criacao": "28/10/2024 09:41:13",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Preto - GG",
+					"codigo": "BA1038-1-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297698059",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059534",
+					"data_criacao": "01/08/2024 10:03:36",
+					"nome": "Blusa De Frio Masculina De Tricô Suéter Masculino - Preto - M",
+					"codigo": "BA1038-1-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820685693",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 23,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866916968",
+					"data_criacao": "23/09/2024 14:11:14",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca",
+					"codigo": "BA1040",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 24,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866933670",
+					"data_criacao": "23/09/2024 15:03:57",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca - Azul Marinho - G",
+					"codigo": "BA1040-7-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297668281",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 25,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866933680",
+					"data_criacao": "23/09/2024 15:03:57",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca - Azul Marinho - GG",
+					"codigo": "BA1040-7-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297678013",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 25,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866933662",
+					"data_criacao": "23/09/2024 15:03:56",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca - Azul Marinho - M",
+					"codigo": "BA1040-7-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297687770",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 25,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866933666",
+					"data_criacao": "23/09/2024 15:03:56",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca - Preto - G",
+					"codigo": "BA1040-1-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297638659",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 25,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866933675",
+					"data_criacao": "23/09/2024 15:03:57",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca - Preto - GG",
+					"codigo": "BA1040-1-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297648627",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 25,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "866933658",
+					"data_criacao": "23/09/2024 15:03:56",
+					"nome": "Blusa de Frio Masculina Degrade Gola Careca - Preto - M",
+					"codigo": "BA1040-1-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794600840939",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 25,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059597",
+					"data_criacao": "01/08/2024 10:03:47",
+					"nome": "Blusa de Frio Masculino Gola Alta",
+					"codigo": "BA1001",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059889",
+					"data_criacao": "01/08/2024 10:03:55",
+					"nome": "Blusa de Frio Masculino Gola Alta - Azul-marinho - Liso - G",
+					"codigo": "BA1001-7-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820485309",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526329",
+					"data_criacao": "28/10/2024 09:42:46",
+					"nome": "Blusa de Frio Masculino Gola Alta - Azul-marinho - Liso - GG",
+					"codigo": "BA1001-7-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298499587",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815060060",
+					"data_criacao": "01/08/2024 10:04:06",
+					"nome": "Blusa de Frio Masculino Gola Alta - Azul-marinho - Liso - M",
+					"codigo": "BA1001-7-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820485477",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059964",
+					"data_criacao": "01/08/2024 10:04:16",
+					"nome": "Blusa de Frio Masculino Gola Alta - Branco - Liso - G",
+					"codigo": "BA1001-2-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820475959",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526334",
+					"data_criacao": "28/10/2024 09:42:48",
+					"nome": "Blusa de Frio Masculino Gola Alta - Branco - Liso - GG",
+					"codigo": "BA1001-2-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298499273",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815060043",
+					"data_criacao": "01/08/2024 10:04:26",
+					"nome": "Blusa de Frio Masculino Gola Alta - Branco - Liso - M",
+					"codigo": "BA1001-2-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820476024",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815060115",
+					"data_criacao": "01/08/2024 10:04:40",
+					"nome": "Blusa de Frio Masculino Gola Alta - Cinza - Liso - G",
+					"codigo": "BA1001-6-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820485545",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526339",
+					"data_criacao": "28/10/2024 09:42:49",
+					"nome": "Blusa de Frio Masculino Gola Alta - Cinza - Liso - GG",
+					"codigo": "BA1001-6-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298499419",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815060140",
+					"data_criacao": "01/08/2024 10:04:49",
+					"nome": "Blusa de Frio Masculino Gola Alta - Cinza - Liso - M",
+					"codigo": "BA1001-6-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820485613",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059905",
+					"data_criacao": "01/08/2024 10:05:00",
+					"nome": "Blusa de Frio Masculino Gola Alta - Grafite - Liso - G",
+					"codigo": "BA1001-8-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820475577",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526344",
+					"data_criacao": "28/10/2024 09:42:50",
+					"nome": "Blusa de Frio Masculino Gola Alta - Grafite - Liso - GG",
+					"codigo": "BA1001-8-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298499655",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815060012",
+					"data_criacao": "01/08/2024 10:05:11",
+					"nome": "Blusa de Frio Masculino Gola Alta - Grafite - Liso - M",
+					"codigo": "BA1001-8-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820475645",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059852",
+					"data_criacao": "01/08/2024 10:05:22",
+					"nome": "Blusa de Frio Masculino Gola Alta - Marsala - Liso - G",
+					"codigo": "BA1001-3-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820476192",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526349",
+					"data_criacao": "28/10/2024 09:42:50",
+					"nome": "Blusa de Frio Masculino Gola Alta - Marsala - Liso - GG",
+					"codigo": "BA1001-3-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298499341",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815060085",
+					"data_criacao": "01/08/2024 10:05:32",
+					"nome": "Blusa de Frio Masculino Gola Alta - Marsala - Liso - M",
+					"codigo": "BA1001-3-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820476260",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059936",
+					"data_criacao": "01/08/2024 10:05:42",
+					"nome": "Blusa de Frio Masculino Gola Alta - Preto - Liso - G",
+					"codigo": "BA1001-1-G",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820475713",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "904526354",
+					"data_criacao": "28/10/2024 09:42:51",
+					"nome": "Blusa de Frio Masculino Gola Alta - Preto - Liso - GG",
+					"codigo": "BA1001-1-GG",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298499204",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815059983",
+					"data_criacao": "01/08/2024 10:05:52",
+					"nome": "Blusa de Frio Masculino Gola Alta - Preto - Liso - M",
+					"codigo": "BA1001-1-M",
+					"preco": 65,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820475881",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 21,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913793805",
+					"data_criacao": "13/06/2025 15:20:58",
+					"nome": "Blusa Feminina Frio Grossa Fang Bicolor TK",
+					"codigo": "BA1064",
+					"preco": 89,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913794088",
+					"data_criacao": "13/06/2025 15:27:41",
+					"nome": "Blusa Feminina Frio Grossa Fang Bicolor TK - Pink",
+					"codigo": "BA1064-15",
+					"preco": 89,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298007850",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913794079",
+					"data_criacao": "13/06/2025 15:27:40",
+					"nome": "Blusa Feminina Frio Grossa Fang Bicolor TK - Preto",
+					"codigo": "BA1064-1",
+					"preco": 89,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298007782",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913794076",
+					"data_criacao": "13/06/2025 15:27:40",
+					"nome": "Blusa Feminina Frio Grossa Fang Bicolor TK - Rosa",
+					"codigo": "BA1064-14",
+					"preco": 89,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297858125",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913794082",
+					"data_criacao": "13/06/2025 15:27:41",
+					"nome": "Blusa Feminina Frio Grossa Fang Bicolor TK - Verde",
+					"codigo": "BA1064-17",
+					"preco": 89,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794297998647",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913794085",
+					"data_criacao": "13/06/2025 15:27:41",
+					"nome": "Blusa Feminina Frio Grossa Fang Bicolor TK - Vinho",
+					"codigo": "BA1064-3",
+					"preco": 89,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298008093",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "815107428",
+					"data_criacao": "01/08/2024 10:06:01",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente",
+					"codigo": "BA1042",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064365",
+					"data_criacao": "01/08/2024 10:06:07",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Azul-piscina - M / G",
+					"codigo": "BA1042-11",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821197058",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064374",
+					"data_criacao": "01/08/2024 10:06:24",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Blusa de Frio Feminina Marsala - M / G",
+					"codigo": "BA1042-3",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298519681",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064361",
+					"data_criacao": "01/08/2024 10:06:33",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Fúcsia - M / G",
+					"codigo": "BA1042-15",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821206408",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064349",
+					"data_criacao": "01/08/2024 10:06:46",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Laranja - M / G",
+					"codigo": "BA1042-9",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821196983",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064335",
+					"data_criacao": "01/08/2024 10:07:00",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Lilás - M / G",
+					"codigo": "BA1042-10",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821206330",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064345",
+					"data_criacao": "01/08/2024 10:07:15",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Off - M / G",
+					"codigo": "BA1042-13",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821196815",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064341",
+					"data_criacao": "01/08/2024 10:07:27",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Preto - M / G",
+					"codigo": "BA1042-1",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821196679",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064353",
+					"data_criacao": "01/08/2024 10:07:40",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Verde-escuro - M / G",
+					"codigo": "BA1042-17",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794821197126",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "842064370",
+					"data_criacao": "01/08/2024 10:07:52",
+					"nome": "Blusa Feminina Tricot Lã Grossa Ampla De Frio Inverno Quente - Verde-musgo - M / G",
+					"codigo": "BA1042-177",
+					"preco": 70,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298538866",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 29,
+					"preco_custo_medio": 29,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "905473049",
+					"data_criacao": "15/11/2024 11:49:33",
+					"nome": "Blusa gola alta Feminina Segunda Pele",
+					"codigo": "BA1000",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634822",
+					"data_criacao": "09/12/2024 10:06:10",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Bege - G/GG",
+					"codigo": "BA1000-4-GG",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298488826",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634788",
+					"data_criacao": "09/12/2024 10:06:06",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Bege - P/M",
+					"codigo": "BA1000-4-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820465431",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634839",
+					"data_criacao": "09/12/2024 10:06:12",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Branco - G/GG",
+					"codigo": "BA1000-2-GG",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298479541",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634805",
+					"data_criacao": "09/12/2024 10:06:08",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Branco - P/M",
+					"codigo": "BA1000-2-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820465745",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634843",
+					"data_criacao": "09/12/2024 10:06:13",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Cinza - G/GG",
+					"codigo": "BA1000-6-GG",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298489069",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634812",
+					"data_criacao": "09/12/2024 10:06:09",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Cinza - P/M",
+					"codigo": "BA1000-6-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820466292",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "909263148",
+					"data_criacao": "13/02/2025 18:10:18",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Ferrugem - G/GG",
+					"codigo": "BA1000-9-gg",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "909263144",
+					"data_criacao": "13/02/2025 18:10:17",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Ferrugem - P/M",
+					"codigo": "BA1000-9-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298439019",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634827",
+					"data_criacao": "09/12/2024 10:06:10",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Marsala - G/GG",
+					"codigo": "BA1000-3-GG",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298488758",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634792",
+					"data_criacao": "09/12/2024 10:06:07",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Marsala - P/M",
+					"codigo": "BA1000-3-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820466056",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634831",
+					"data_criacao": "09/12/2024 10:06:11",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Preto - G/GG",
+					"codigo": "BA1000-1-GG",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298479473",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634797",
+					"data_criacao": "09/12/2024 10:06:07",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Preto - P/M",
+					"codigo": "BA1000-1-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820465813",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634835",
+					"data_criacao": "09/12/2024 10:06:12",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Rosa - G/GG",
+					"codigo": "BA1000-5-GG",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794298488994",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "906634801",
+					"data_criacao": "09/12/2024 10:06:08",
+					"nome": "Blusa gola alta Feminina Segunda Pele - Rosa - P/M",
+					"codigo": "BA1000-5-M",
+					"preco": 39.9,
+					"preco_promocional": 0,
+					"unidade": "UN",
+					"gtin": "7794820466124",
+					"tipoVariacao": "V",
+					"localizacao": "",
+					"preco_custo": 16.5,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			},
+			{
+				"produto": {
+					"id": "913348055",
+					"data_criacao": "04/06/2025 07:47:51",
+					"nome": "Blusa Masculina Fang Intarsia Kl",
+					"codigo": "BA1069",
+					"preco": 79,
+					"preco_promocional": 0,
+					"unidade": "Pc",
+					"gtin": "",
+					"tipoVariacao": "P",
+					"localizacao": "",
+					"preco_custo": 0,
+					"preco_custo_medio": 0,
+					"situacao": "A"
+				}
+			}
+		]
+	}
+}

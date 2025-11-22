@@ -1,0 +1,582 @@
+pedido_id,pedido_numero,data_pedido,situacao,valor_total_pedido,numero_ordem_compra,produto_id,produto_nome,quantidade,valor_unitario
+913290271,34948,2025-11-04,Entregue,14.72,251104TW1KVV9A,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,16.0
+913290428,34949,2025-11-04,Entregue,14.72,251104TYB0UBHG,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913290648,34950,2025-11-04,Entregue,36.64,251104U1GHPFKU,834082680,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Vermelho - G,1,30.0
+913293245,34952,2025-11-04,Entregue,13.8,251104UPA0AJ95,834115397,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Vermelho,1,15.0
+913295498,34953,2025-11-04,Entregue,33.3,251104UQ5WW8R5,834088363,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - SaÃÂ­da de Maternidade Trciot Vermelho - UN,1,37.0
+913297114,34954,2025-11-04,Entregue,14.72,251104UTDB74C9,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,16.0
+913298301,34955,2025-11-04,Entregue,42.65,251104UVR5TN4A,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,17.0
+913298301,34955,2025-11-04,Entregue,42.65,251104UVR5TN4A,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,17.0
+913298828,34956,2025-11-04,Entregue,33.66,2000009838748877,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913298970,34957,2025-11-04,Entregue,30.71,251104UWJX7CDU,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,31.99
+913299425,34958,2025-11-04,Entregue,24.57,251104UXMG1Y83,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,16.25
+913300261,34959,2025-11-04,Entregue,14.95,251104UYWWN57V,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913300298,34960,2025-11-04,Entregue,14.95,251104UYYK2XP0,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913303776,34961,2025-11-04,Entregue,31.99,2000013664785920,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913304569,34962,2025-11-04,Entregue,31.99,2000009841533847,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,31.99
+913304823,34963,2025-11-04,Entregue,26.99,251104V7HD5J8P,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913304912,34964,2025-11-04,Entregue,14.95,251104V7WTVGY0,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913307679,34967,2025-11-04,Entregue,33.66,2000013667643876,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913310797,34968,2025-11-04,Entregue,37.85,251105VESVUA6M,834082968,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Preto - GG,1,30.0
+913310912,34969,2025-11-04,Entregue,27.02,251105VEYNSNC4,834083145,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Cinza - M,1,30.0
+913312647,34970,2025-11-04,Entregue,103.2,2000009844987055,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,2,25.8
+913312647,34970,2025-11-04,Entregue,103.2,2000009844987055,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,2,25.8
+913314068,34972,2025-11-04,Entregue,33.66,2000009845702177,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913314676,34973,2025-11-04,Entregue,14.72,251105VMYFMTMS,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,16.0
+913317703,34974,2025-11-04,Entregue,21.9,251105VSDW91YS,906774445,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cinza,1,16.0
+913317882,34975,2025-11-04,Entregue,16.25,251105VSS208KS,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913318207,34976,2025-11-04,Entregue,32.83,251105VTG17HUW,906774445,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cinza,1,16.0
+913318280,34977,2025-11-04,Entregue,33.3,251105VTVFUDEU,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,37.0
+913319213,34979,2025-11-04,Entregue,22.95,251105VXAY5M8D,866935071,Blusa de Frio Masculina Degrade Gola Careca - Preto - GG,1,25.5
+913319344,34980,2025-11-04,Entregue,17.37,251105VXWYK9MG,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,16.0
+913319417,34981,2025-11-04,Entregue,14.72,251105VYCUFWJ9,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913319418,34982,2025-11-04,Entregue,14.72,251105VYEHT6VY,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,16.0
+913320386,34983,2025-11-04,Entregue,14.72,251105016P0FMK,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913320488,34984,2025-11-04,Entregue,139.0,2000009850815215,834098574,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Cinza - TranÃÂ§a,1,69.5
+913320488,34984,2025-11-04,Entregue,139.0,2000009850815215,834098629,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Cinza - 45x45,2,34.75
+913320622,34986,2025-11-04,Entregue,33.66,2000009851052913,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,33.66
+913320641,34987,2025-11-04,Entregue,33.66,2000009851124565,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913320910,34988,2025-11-04,Entregue,21.9,251105043S7VSN,906774445,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cinza,1,16.0
+913321079,34989,2025-11-04,Entregue,49.8,GSH14V2930016M9,834122817,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Preto - M,1,49.8
+913321906,34990,2025-11-04,Entregue,33.66,2000009853598789,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,33.66
+913322073,34992,2025-11-05,Entregue,14.72,2511050E3H95XD,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913327633,34993,2025-11-05,Entregue,25.78,2511050FG7QEAA,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913338256,34994,2025-11-05,Entregue,31.99,2000013678151800,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913338950,34995,2025-11-05,Entregue,24.34,25110512SAK35H,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,16.0
+913339192,34996,2025-11-05,Entregue,14.95,2511051346MTS0,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913341459,34997,2025-11-05,Entregue,70.3,25110514C0QNX1,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,74.0
+913341478,34998,2025-11-05,Entregue,31.2,25110514EW78SV,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,32.5
+913342090,34999,2025-11-05,Entregue,31.99,2000009855419615,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913343634,35000,2025-11-05,Entregue,32.85,25110518N7DSMS,910505392,Kit Saida De Maternidade Menina TricÃÂ´ Luxo ! Envio Imediato - Kit Maternidade VERDE MARÃÂ - P,1,36.5
+913344146,35002,2025-11-05,Entregue,22.45,25110519S3P6AU,904532803,Twinset - Terracota,1,24.95
+913345853,35003,2025-11-05,Entregue,14.72,2511051BR7KY1V,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913345993,35004,2025-11-05,Entregue,13.8,2511051C00GY08,909260113,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Azul BebÃÂª,1,15.0
+913346887,35005,2025-11-05,Entregue,31.99,2000009857482889,906347112,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Amarelo,1,31.99
+913349727,35006,2025-11-05,Entregue,27.02,2511051H7SNE3M,834082968,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Preto - GG,1,30.0
+913352923,35007,2025-11-05,Entregue,25.84,2511051MVDBKX0,834115404,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Cinza,1,15.0
+913354177,35011,2025-11-05,Entregue,31.99,2000013683518204,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,31.99
+913354511,35012,2025-11-05,Entregue,14.95,2511061RN3R66G,907655200,Mantinha CoraÃÂ§ÃÂ£o  - Cinza,1,16.25
+913357303,35013,2025-11-05,Entregue,59.9,2000013684915872,834123139,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Masculino Vermelho - M,1,59.9
+913358038,35014,2025-11-05,Entregue,33.66,2000009862580857,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,33.66
+913362775,35015,2025-11-05,Entregue,22.13,25110622M5TPNP,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913363540,35016,2025-11-05,Entregue,28.8,25110624HDN42S,906342909,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Mantinha BebÃÂª Verde,1,16.0
+913363540,35016,2025-11-05,Entregue,28.8,25110624HDN42S,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913364217,35017,2025-11-05,Entregue,23.11,25110625C25P20,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913364683,35018,2025-11-05,Entregue,63.98,2000009864666505,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913364683,35018,2025-11-05,Entregue,63.98,2000009864666505,906342909,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Mantinha BebÃÂª Verde,1,31.99
+913365209,35019,2025-11-05,Entregue,33.66,2000009865052409,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913365232,35020,2025-11-05,Entregue,21.35,251106275Y4P41,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,16.0
+913365734,35021,2025-11-05,Entregue,14.72,251106290QUD8M,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913365903,35022,2025-11-05,Entregue,28.82,25110629XS4HFP,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,2,16.0
+913366120,35023,2025-11-05,Entregue,14.72,2511062AXDXJN1,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,16.0
+913366201,35024,2025-11-05,Entregue,20.74,2511062BCWD5XK,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913366559,35025,2025-11-05,Entregue,51.6,2000013689780424,0,Kit 2 Cobertor Bebe Menino Manta De Trico Para BebÃÂª Luxo Cor Rosa-claro Animais,1,51.6
+913366658,35026,2025-11-05,Entregue,33.66,2000009867320949,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913366740,35027,2025-11-05,Entregue,30.15,2511062EN79G1Y,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913366862,35028,2025-11-05,Entregue,29.62,2511062F6XPM5V,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,30.86
+913367068,35029,2025-11-05,Entregue,67.32,2000009867827455,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,2,33.66
+913367197,35030,2025-11-05,Entregue,41.66,2511062GMC31N5,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,30.86
+913367271,35032,2025-11-05,Entregue,33.66,2000009868148335,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913367917,35034,2025-11-05,Entregue,33.66,2000009869307985,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,33.66
+913369773,35035,2025-11-05,Entregue,47.27,2511062MV8UM8Y,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913369773,35035,2025-11-05,Entregue,47.27,2511062MV8UM8Y,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913374661,35036,2025-11-05,Entregue,33.9,2000013692019842,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,33.9
+913378118,35037,2025-11-05,Entregue,33.06,2511062NRY92NM,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913378118,35037,2025-11-05,Entregue,33.06,2511062NRY92NM,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913384424,35038,2025-11-05,Entregue,30.15,2511062Q68UXHA,834087219,Kit Saida De Maternidade Menina TricÃÂ´ Luxo ! Envio Imediato - Saida Maternidade LilÃÂ¡s de TricÃÂ´ - P,1,33.5
+913384794,35039,2025-11-05,Entregue,30.15,2511062QM2C56D,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.5
+913384908,35040,2025-11-05,Entregue,33.66,2000009870323165,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913385113,35041,2025-11-05,Entregue,28.46,2511062TCVA15U,834083145,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Cinza - M,1,30.0
+913385872,35042,2025-11-06,Entregue,19.76,2511062X26XR6A,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913386671,35043,2025-11-06,Entregue,30.15,25110634UYFYU2,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913387039,35044,2025-11-06,Entregue,31.99,2000009872468895,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913387046,35045,2025-11-06,Entregue,14.16,2511063FJ8DVD3,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913387791,35046,2025-11-06,Entregue,31.99,2000009872808561,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913390605,35048,2025-11-06,Entregue,31.99,2000013695533578,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,31.99
+913390789,35049,2025-11-06,Entregue,27.02,2511063QA1A1PB,834082644,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Vermelho - M,1,30.0
+913390999,35050,2025-11-06,Entregue,20.74,2511063QNFGBY0,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913391485,35051,2025-11-06,Entregue,14.95,2511063R9TV2FW,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.25
+913392564,35052,2025-11-06,Entregue,51.6,2000009873698025,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.8
+913392564,35052,2025-11-06,Entregue,51.6,2000009873698025,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,25.8
+913394030,35053,2025-11-06,Entregue,30.15,2511063SN4HXUU,834088972,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Saida Maternidade Enxoval Menina Rosa - UN,1,33.5
+913395187,35054,2025-11-06,Entregue,30.15,2511063U6MKUJG,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913395707,35055,2025-11-06,Entregue,14.72,2511063V4SQDHX,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913395796,35056,2025-11-06,Entregue,29.62,2511063VASBHST,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,30.86
+913396079,35057,2025-11-06,Entregue,33.66,2000009874626859,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913396951,35059,2025-11-06,Entregue,29.62,2511063WMQ6B8T,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,30.86
+913397068,35060,2025-11-06,Entregue,31.99,2000013697065056,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913399523,35061,2025-11-06,Entregue,22.55,251106401U8YM4,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913401849,35062,2025-11-06,Entregue,14.72,25110640RWDWJ7,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913402592,35064,2025-11-06,Entregue,31.99,2000009876060721,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,31.99
+913402597,35065,2025-11-06,Entregue,49.8,GSH14D20A001CDG,834122876,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Preto - G,1,49.8
+913403172,35067,2025-11-06,Entregue,51.6,2000009876556433,0,Kit 2 Cobertor Bebe Menino Manta De Trico Para BebÃÂª Luxo Cor Rosa-claro Animais,1,51.6
+913403483,35068,2025-11-06,Entregue,22.55,251106444J57P7,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913403667,35069,2025-11-06,Entregue,31.99,2000009876969157,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913404286,35071,2025-11-06,Entregue,37.87,25110746B7ASPF,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913404286,35071,2025-11-06,Entregue,37.87,25110746B7ASPF,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913404958,35074,2025-11-06,Entregue,30.9,25110748B6V3G0,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913404958,35074,2025-11-06,Entregue,30.9,25110748B6V3G0,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913405521,35075,2025-11-06,Entregue,33.66,2000009878243273,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913405958,35076,2025-11-06,Entregue,139.0,2000009878347003,834097650,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Grafite - TranÃÂ§a,1,69.5
+913405958,35076,2025-11-06,Entregue,139.0,2000009878347003,834097717,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Cinza Escuro - 45x45,2,34.75
+913408800,35077,2025-11-06,Entregue,14.72,2511074BYXCWDE,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913409185,35078,2025-11-06,Entregue,14.72,2511074CUKAYXX,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,16.0
+913409785,35079,2025-11-06,Entregue,33.66,2000009879665293,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,33.66
+913415258,35080,2025-11-06,Entregue,51.6,2000009880338283,0,Kit 2 Cobertor Bebe Menino Manta De Trico Para BebÃÂª Luxo Cor Rosa-claro Animais,1,51.6
+913417586,35083,2025-11-06,Entregue,33.66,2000013702524352,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913418071,35084,2025-11-06,Entregue,30.91,2511074J133V3T,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,32.2
+913418253,35085,2025-11-06,Entregue,33.66,2000009881147649,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913418567,35086,2025-11-06,Entregue,33.66,2000009881280645,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,33.66
+913420865,35087,2025-11-06,Entregue,29.62,2511074P9WF41Y,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,30.86
+913420986,35088,2025-11-06,Entregue,14.72,2511074PK7YXT5,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913421026,35089,2025-11-06,Entregue,14.72,2511074PR4C7TW,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,16.0
+913421824,35090,2025-11-06,Entregue,30.65,2511074RSHMC79,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,34.0
+913422664,35091,2025-11-06,Entregue,33.66,2000009873424813,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,33.66
+913424313,35092,2025-11-06,Entregue,14.72,25110751XJ4UNP,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913424461,35093,2025-11-06,Entregue,33.66,2000009885813441,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,33.66
+913424572,35094,2025-11-06,Entregue,14.72,25110753JN7XW0,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913424610,35095,2025-11-06,Entregue,19.76,25110753R9FE2F,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913424632,35096,2025-11-06,Entregue,31.99,2000009886163501,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,31.99
+913424685,35097,2025-11-06,Entregue,31.84,251107544XSN2C,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,16.0
+913424685,35097,2025-11-06,Entregue,31.84,251107544XSN2C,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913425044,35098,2025-11-06,Entregue,24.34,25110755WREF8U,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913425107,35099,2025-11-06,Entregue,33.9,2000009886715711,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,33.9
+913425196,35100,2025-11-06,Entregue,25.8,25110756R3FFCM,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,34.0
+913425277,35102,2025-11-06,Entregue,67.32,2000009887097087,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913425277,35102,2025-11-06,Entregue,67.32,2000009887097087,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,33.66
+913425404,35103,2025-11-06,Entregue,30.65,25110758H2YBVP,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,34.0
+913426264,35105,2025-11-07,Entregue,38.5,2511075NWC6XKD,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,34.0
+913426310,35106,2025-11-07,Entregue,14.72,2511075QEEX6MW,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913432350,35109,2025-11-07,Entregue,32.25,251107682SF9YG,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,15.2
+913432350,35109,2025-11-07,Entregue,32.25,251107682SF9YG,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913432387,35110,2025-11-07,Entregue,14.95,251107687G4X51,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,16.25
+913432494,35111,2025-11-07,Entregue,14.72,25110768J4JD9W,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,16.0
+913432866,35112,2025-11-07,Entregue,9.96,251107696QKG1X,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,32.5
+913432866,35112,2025-11-07,Entregue,9.96,251107696QKG1X,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,31.99
+913432977,35113,2025-11-07,Entregue,58.71,25110769C70RPX,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913432977,35113,2025-11-07,Entregue,58.71,25110769C70RPX,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913434044,35116,2025-11-07,Entregue,14.95,2511076BA4SJWY,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913435463,35117,2025-11-07,Entregue,36.01,2511076DD1SWB1,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,32.5
+913437096,35118,2025-11-07,Entregue,33.9,2000013712683786,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,33.9
+913437106,35119,2025-11-07,Entregue,27.02,2511076FFEJUSA,834082680,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Vermelho - G,1,30.0
+913437503,35120,2025-11-07,Entregue,106.74,2000013712938944,834097146,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Bege - TranÃÂ§a,1,53.36
+913437503,35120,2025-11-07,Entregue,106.74,2000013712938944,834097402,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Bege - 45x45,2,26.69
+913437858,35121,2025-11-07,Entregue,18.31,2511076H0M5MW6,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,16.0
+913438138,35122,2025-11-07,Entregue,33.9,2000009892799339,907655224,Mantinha CoraÃÂ§ÃÂ£o  - Vermelho,1,33.9
+913438161,35123,2025-11-07,Entregue,13.8,2511076HYG36PM,834115379,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Azul Marinho,1,15.0
+913438481,35124,2025-11-07,Entregue,23.78,2511076JMEKCPK,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913438556,35125,2025-11-07,Entregue,14.95,2511076JTUK90Y,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,16.25
+913439081,35126,2025-11-07,Entregue,14.16,2511076KNG4VMG,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913439136,35127,2025-11-07,Entregue,67.32,2000009893357693,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,2,33.66
+913439140,35128,2025-11-07,Entregue,14.95,2511076KV7R85C,906347112,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Amarelo,1,16.25
+913439340,35129,2025-11-07,Entregue,14.72,2511076MKVXPF9,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,16.0
+913439378,35130,2025-11-07,Entregue,33.66,2000009893606507,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,33.66
+913439487,35131,2025-11-07,Entregue,31.99,2000009893711795,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913439545,35132,2025-11-07,Entregue,14.72,2511076N9Q1K9K,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913439564,35133,2025-11-07,Entregue,14.72,2511076NDYDQVH,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,16.0
+913445615,35137,2025-11-07,Entregue,21.02,2511086T7T9V16,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913445629,35138,2025-11-07,Entregue,33.66,2000009895246111,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913447148,35140,2025-11-07,Entregue,29.62,2511086VHHNGMM,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,30.86
+913450319,35144,2025-11-07,Entregue,14.95,2511086XT5S8SQ,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913451572,35145,2025-11-07,Entregue,31.99,2000009897179781,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913453443,35147,2025-11-07,Entregue,33.66,2000009897608079,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913453883,35148,2025-11-07,Entregue,191.94,2000009897877473,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,6,31.99
+913454527,35149,2025-11-07,Entregue,59.11,2000009897991445,834096366,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Azul-marinho - TranÃÂ§a,1,59.11
+913454751,35150,2025-11-07,Entregue,31.99,2000009898409381,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913454830,35151,2025-11-07,Entregue,33.66,2000009897184015,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913455182,35152,2025-11-07,Entregue,16.0,25110877XTTT2B,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913455318,35153,2025-11-07,Entregue,30.15,25110878KW3H8M,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913455381,35154,2025-11-07,Entregue,14.95,2511087935BEK7,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913455431,35155,2025-11-07,Entregue,33.66,2000009895811469,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913456303,35158,2025-11-07,Entregue,14.16,2511087CRPMSCF,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913456365,35160,2025-11-07,Entregue,53.89,2000009897193105,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,26.95
+913456365,35160,2025-11-07,Entregue,53.89,2000009897193105,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,26.94
+913456421,35162,2025-11-07,Entregue,29.2,2511087DKGYXS7,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913456532,35163,2025-11-07,Entregue,33.66,2000009900272969,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913456786,35164,2025-11-07,Entregue,14.72,2511087F0SKHVW,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913456890,35165,2025-11-07,Entregue,26.1,2511087FF93GFS,834097974,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Creme - TranÃÂ§a,1,29.0
+913457400,35170,2025-11-07,Entregue,67.32,2000009901658039,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913457400,35170,2025-11-07,Entregue,67.32,2000009901658039,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,33.66
+913457402,35171,2025-11-07,Entregue,31.99,2000009901658655,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913457570,35172,2025-11-07,Entregue,14.72,2511087MNS9C8M,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913457828,35173,2025-11-07,Entregue,14.72,2511087P805GEF,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913458068,35175,2025-11-07,Entregue,51.6,2000009902855941,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.8
+913458068,35175,2025-11-07,Entregue,51.6,2000009902855941,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.8
+913458449,35177,2025-11-08,Entregue,24.34,2511087WDDKAVU,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913458848,35178,2025-11-08,Entregue,14.95,251108821Q3XSB,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913458898,35179,2025-11-08,Entregue,97.5,2000009904280355,903868850,Blusa De Frio Masculina LÃÂ£ Gola Alta Segunda Pele TricÃÂ´ - Preto - Liso - GG,2,48.75
+913459284,35182,2025-11-08,Entregue,47.27,2511088HUUB7JY,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,24.62
+913459284,35182,2025-11-08,Entregue,47.27,2511088HUUB7JY,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913459286,35183,2025-11-08,Entregue,48.75,2000013724193886,834086347,Blusa De Frio Masculina LÃÂ£ Gola Alta Segunda Pele TricÃÂ´ - Preto - Liso - M,1,48.75
+913461261,35188,2025-11-08,Entregue,67.8,2000009905736721,907655224,Mantinha CoraÃÂ§ÃÂ£o  - Vermelho,1,33.9
+913461261,35188,2025-11-08,Entregue,67.8,2000009905736721,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,33.9
+913461354,35189,2025-11-08,Entregue,13.8,2511088VHVKU9P,834115404,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Cinza,1,15.0
+913462840,35193,2025-11-08,Entregue,45.84,25110892UN1W3X,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.5
+913463028,35194,2025-11-08,Entregue,14.16,25110893JS2VSG,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913463506,35197,2025-11-08,Entregue,33.9,2000009907774029,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,33.9
+913463536,35198,2025-11-08,Entregue,14.72,25110895WC2VS4,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913464273,35200,2025-11-08,Entregue,19.58,25110999CJA34J,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913464361,35202,2025-11-08,Entregue,48.75,2000013727779144,834087375,Blusa De Frio Masculina LÃÂ£ Gola Alta Segunda Pele TricÃÂ´ - Preto - Liso - G,1,48.75
+913464379,35203,2025-11-08,Entregue,48.75,2000009908817057,834087457,Blusa De Frio Masculina LÃÂ£ Gola Alta Segunda Pele TricÃÂ´ - Cinza - Liso - G,1,48.75
+913465364,35206,2025-11-08,Entregue,14.72,2511099DV6Y0TM,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913465579,35208,2025-11-08,Entregue,14.72,2511099F10QVTW,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913465684,35209,2025-11-08,Entregue,67.32,2000009910093385,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913465684,35209,2025-11-08,Entregue,67.32,2000009910093385,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,33.66
+913465882,35212,2025-11-08,Entregue,21.9,2511099H1U1JSS,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913466139,35215,2025-11-08,Entregue,60.3,2511099J7YPA5W,834088972,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Saida Maternidade Enxoval Menina Rosa - UN,2,33.5
+913466169,35216,2025-11-08,Entregue,53.31,2000009910661827,842067738,Blusa Feminina Tricot LÃÂ£ Grossa Ampla De Frio Inverno Quente - Preto - M / G,1,53.31
+913466586,35220,2025-11-08,Entregue,40.84,2511099MBPGC5B,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,2,16.0
+913466778,35221,2025-11-08,Entregue,14.72,2511099N38UGKB,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913467087,35223,2025-11-08,Entregue,30.15,2511099Q52H8JB,834088972,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Saida Maternidade Enxoval Menina Rosa - UN,1,33.5
+913467096,35224,2025-11-08,Entregue,14.95,2511099Q7CWPPE,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913467709,35225,2025-11-08,Entregue,19.53,2511099TTY7PHR,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913467914,35227,2025-11-08,Entregue,33.9,2000013731386882,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,33.9
+913468974,35230,2025-11-08,Entregue,29.62,251109A1R3GAH0,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,30.86
+913469139,35231,2025-11-08,Entregue,31.99,2000009914274473,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,31.99
+913469311,35232,2025-11-08,Entregue,31.99,2000009914627673,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913469681,35235,2025-11-08,Entregue,21.34,251109A6WBPDBM,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913469712,35236,2025-11-08,Entregue,47.27,251109A71WK0CA,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,24.62
+913469712,35236,2025-11-08,Entregue,47.27,251109A71WK0CA,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913470128,35237,2025-11-08,Entregue,59.11,2000013733956132,834097146,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Bege - TranÃÂ§a,1,59.11
+913470394,35238,2025-11-08,Entregue,59.11,2000013733997040,834098574,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Cinza - TranÃÂ§a,1,59.11
+913471182,35242,2025-11-08,Entregue,33.9,2000009916230161,907655224,Mantinha CoraÃÂ§ÃÂ£o  - Vermelho,1,33.9
+913471100,35240,2025-11-09,Entregue,14.72,251109ACD981NB,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913471231,35243,2025-11-09,Entregue,14.95,251109AEBKC0QS,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.25
+913471419,35244,2025-11-09,Entregue,29.25,251109AF9NHWRU,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913471419,35244,2025-11-09,Entregue,29.25,251109AF9NHWRU,907655224,Mantinha CoraÃÂ§ÃÂ£o  - Vermelho,1,16.25
+913471453,35245,2025-11-09,Entregue,53.89,2000009916520719,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,26.95
+913471453,35245,2025-11-09,Entregue,53.89,2000009916520719,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,26.94
+913471872,35247,2025-11-09,Entregue,14.95,251109B2CXCBF8,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.25
+913472149,35251,2025-11-09,Entregue,31.99,2000009917656833,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,31.99
+913472429,35255,2025-11-09,Entregue,49.23,251109BC94UURP,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913472429,35255,2025-11-09,Entregue,49.23,251109BC94UURP,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913472505,35257,2025-11-09,Entregue,49.23,251109BCXXYFQ1,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913472505,35257,2025-11-09,Entregue,49.23,251109BCXXYFQ1,906342909,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Mantinha BebÃÂª Verde,1,25.91
+913472640,35259,2025-11-09,Entregue,24.75,251109BDWASN9A,905443815,CAMISETA GOLA POLO TEXTURA  - Areia - M,1,27.5
+913472709,35260,2025-11-09,Entregue,16.16,251109BEKDEN5N,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913472795,35261,2025-11-09,Entregue,13.8,251109BF3GD44E,834115404,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Cinza,1,15.0
+913473528,35263,2025-11-09,Entregue,14.72,251109BM2DD7Q4,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913473593,35264,2025-11-09,Entregue,31.99,2000009919585051,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913473681,35265,2025-11-09,Entregue,33.9,2000013737501238,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,33.9
+913473691,35266,2025-11-09,Entregue,18.92,251109BN0JJCRY,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,16.0
+913474071,35268,2025-11-09,Entregue,106.74,2000009920295949,834096366,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Azul-marinho - TranÃÂ§a,1,53.36
+913474071,35268,2025-11-09,Entregue,106.74,2000009920295949,834098333,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Azul Marinho - 45x45,2,26.69
+913474247,35269,2025-11-09,Entregue,14.72,251110BRQ39GFM,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913474891,35271,2025-11-09,Entregue,14.72,251110BV0VUDEP,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,16.0
+913475890,35275,2025-11-09,Entregue,24.57,251110C0W07GRX,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,16.25
+913475957,35276,2025-11-09,Entregue,19.53,251110C1DXVD4T,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913476270,35278,2025-11-09,Entregue,14.72,251110C2Q2X9C7,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913476382,35279,2025-11-09,Entregue,33.9,2000013740411928,907655200,Mantinha CoraÃÂ§ÃÂ£o  - Cinza,1,33.9
+913476908,35284,2025-11-09,Entregue,31.99,2000009923429667,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,31.99
+913477139,35285,2025-11-09,Entregue,30.15,251110C6CUTRYX,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913477367,35286,2025-11-09,Entregue,14.72,251110C7G7T0K7,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913477438,35289,2025-11-09,Entregue,53.57,251110C7YTM8K0,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913477438,35289,2025-11-09,Entregue,53.57,251110C7YTM8K0,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913478136,35291,2025-11-09,Entregue,31.99,2000009924906733,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913478419,35292,2025-11-09,Entregue,14.72,251110CCQ5BAAK,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,16.0
+913478675,35295,2025-11-09,Entregue,14.95,251110CDQWDVRQ,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913478710,35296,2025-11-09,Entregue,49.0,GSH1QM39U00029J,904864064,Blusa De Frio Masculina De TricÃÂ´ SuÃÂ©ter Masculino - Preto - GG,1,49.0
+913479031,35297,2025-11-09,Entregue,47.27,251110CF211ARS,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913479031,35297,2025-11-09,Entregue,47.27,251110CF211ARS,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913479169,35298,2025-11-09,Entregue,30.15,251110CFGBQEDH,834087219,Kit Saida De Maternidade Menina TricÃÂ´ Luxo ! Envio Imediato - Saida Maternidade LilÃÂ¡s de TricÃÂ´ - P,1,33.5
+913479371,35299,2025-11-09,Entregue,14.16,251110CGM8WENN,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913480055,35301,2025-11-09,Entregue,22.4,251110CK4H5SCQ,834122498,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Masculino Vermelho - G,1,24.9
+913480191,35302,2025-11-09,Entregue,47.27,251110CKYYF79Q,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913480191,35302,2025-11-09,Entregue,47.27,251110CKYYF79Q,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913480582,35304,2025-11-09,Entregue,33.9,2000013744884506,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,33.9
+913481686,35305,2025-11-09,Entregue,28.25,251110CRVNVD2M,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913481686,35305,2025-11-09,Entregue,28.25,251110CRVNVD2M,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913481743,35306,2025-11-09,Entregue,33.66,2000013745465486,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913481847,35307,2025-11-09,Entregue,14.72,251110CT38XCK8,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,16.0
+913481909,35309,2025-11-09,Entregue,14.16,251110CTN37HF0,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913481930,35310,2025-11-09,Entregue,14.72,251110CU5Y0827,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913482140,35312,2025-11-09,Entregue,31.99,2000009929237309,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913484934,35314,2025-11-10,Entregue,14.72,251110DNKAWB0E,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,16.0
+913486210,35317,2025-11-10,Entregue,49.23,251110DPEW2NF8,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913486210,35317,2025-11-10,Entregue,49.23,251110DPEW2NF8,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913488483,35319,2025-11-10,Entregue,30.15,251110DQK0WM74,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913489356,35321,2025-11-10,Entregue,13.8,251110DRR9XTMS,909260113,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Azul BebÃÂª,1,15.0
+913491022,35325,2025-11-10,Entregue,60.3,251110DV6WYSS7,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913491022,35325,2025-11-10,Entregue,60.3,251110DV6WYSS7,834088972,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Saida Maternidade Enxoval Menina Rosa - UN,1,33.5
+913491480,35326,2025-11-10,Entregue,28.8,251110DW0AGX3D,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913491480,35326,2025-11-10,Entregue,28.8,251110DW0AGX3D,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,16.0
+913491630,35327,2025-11-10,Entregue,14.72,251110DWKXXHQ3,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913492649,35330,2025-11-10,Entregue,49.23,251110DXEA06YD,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913492649,35330,2025-11-10,Entregue,49.23,251110DXEA06YD,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913493108,35331,2025-11-10,Entregue,14.95,251110DY451DWA,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913493387,35332,2025-11-10,Entregue,14.95,251110DYD44H0A,907655204,Mantinha CoraÃÂ§ÃÂ£o  - Branco,1,16.25
+913494256,35334,2025-11-10,Entregue,35.57,251110E0TEN0F7,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.5
+913495522,35336,2025-11-10,Entregue,31.99,2000009933903789,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913495660,35337,2025-11-10,Entregue,106.74,2000009934089553,834097146,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Bege - TranÃÂ§a,1,53.36
+913495660,35337,2025-11-10,Entregue,106.74,2000009934089553,834097402,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Bege - 45x45,2,26.69
+913495952,35338,2025-11-10,Entregue,67.32,2000009934243925,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913495952,35338,2025-11-10,Entregue,67.32,2000009934243925,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913496025,35339,2025-11-10,Entregue,30.15,251110E4KBS6U7,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913496041,35340,2025-11-10,Entregue,47.27,251110E4MUCJR5,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,24.62
+913496041,35340,2025-11-10,Entregue,47.27,251110E4MUCJR5,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913496170,35341,2025-11-10,Entregue,49.23,251110E4VHGHVT,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913496170,35341,2025-11-10,Entregue,49.23,251110E4VHGHVT,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913497465,35345,2025-11-10,Entregue,33.9,2000013751696078,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,33.9
+913498080,35347,2025-11-10,Entregue,14.72,251111E968DBTJ,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913499085,35348,2025-11-10,Entregue,22.4,251111EAWR3T53,834122756,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Masculino Social Cinza - GG,1,24.9
+913503516,35351,2025-11-10,Entregue,53.89,2000009938057809,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,26.95
+913503516,35351,2025-11-10,Entregue,53.89,2000009938057809,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,26.94
+913503892,35352,2025-11-10,Entregue,67.32,2000009938160361,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913503892,35352,2025-11-10,Entregue,67.32,2000009938160361,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,33.66
+913505435,35354,2025-11-10,Entregue,31.99,2000009938575781,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913507394,35356,2025-11-10,Entregue,47.27,251111EMBD6GUD,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913507394,35356,2025-11-10,Entregue,47.27,251111EMBD6GUD,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,24.62
+913507414,35357,2025-11-10,Entregue,33.9,2000009939422957,907655200,Mantinha CoraÃÂ§ÃÂ£o  - Cinza,1,33.9
+913509380,35358,2025-11-10,Entregue,27.02,251111ENXNJMHS,834115404,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Cinza,1,15.0
+913509380,35358,2025-11-10,Entregue,27.02,251111ENXNJMHS,834115379,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Azul Marinho,1,15.0
+913511098,35359,2025-11-10,Entregue,33.9,2000013756269788,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,33.9
+913511537,35360,2025-11-10,Entregue,58.54,251111ER90YJ18,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913511537,35360,2025-11-10,Entregue,58.54,251111ER90YJ18,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913512159,35362,2025-11-10,Entregue,14.16,251111ET2VYWMX,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913512237,35364,2025-11-10,Entregue,33.9,2000013756944952,907655196,Mantinha CoraÃÂ§ÃÂ£o  - Azul BebÃÂª,1,33.9
+913512559,35366,2025-11-10,Entregue,14.72,251111EUPV72F1,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913513037,35367,2025-11-10,Entregue,67.8,2000009941979667,907655196,Mantinha CoraÃÂ§ÃÂ£o  - Azul BebÃÂª,1,33.9
+913513037,35367,2025-11-10,Entregue,67.8,2000009941979667,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,33.9
+913513299,35369,2025-11-10,Entregue,24.57,251111EXQSHG7E,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.25
+913513535,35370,2025-11-10,Entregue,14.72,251111F02NVVEN,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913513555,35371,2025-11-10,Entregue,49.23,251111F068CAYN,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913513555,35371,2025-11-10,Entregue,49.23,251111F068CAYN,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,25.91
+913513788,35375,2025-11-10,Entregue,48.75,2000009943304485,834087375,Blusa De Frio Masculina LÃÂ£ Gola Alta Segunda Pele TricÃÂ´ - Preto - Liso - G,1,48.75
+913513880,35376,2025-11-10,Entregue,14.16,251111F1PSW4BD,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,15.4
+913514703,35379,2025-11-10,Entregue,14.95,251111F5F8JPPF,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,16.25
+913514901,35380,2025-11-10,Entregue,14.16,251111F678A8PK,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913515170,35381,2025-11-10,Entregue,53.89,2000009945511613,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,26.95
+913515170,35381,2025-11-10,Entregue,53.89,2000009945511613,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,26.94
+913515271,35384,2025-11-10,Entregue,99.98,2000009945694411,912687627,Camiseta Boxy Oversized Estonada USB - Preto - M,1,49.99
+913515271,35384,2025-11-10,Entregue,99.98,2000009945694411,912687615,Camiseta Boxy Oversized Estonada USB - Chumbo - M,1,49.99
+913515272,35385,2025-11-10,Entregue,49.8,GSH1QN43300183X,834122876,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Preto - G,1,49.8
+913515869,35391,2025-11-11,Entregue,23.34,251111FDSV53NX,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,16.25
+913516015,35393,2025-11-11,Entregue,60.57,251111FEN6NUE2,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913516015,35393,2025-11-11,Entregue,60.57,251111FEN6NUE2,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913516113,35394,2025-11-11,Entregue,33.65,251111FF73VNBW,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,37.0
+913516116,35395,2025-11-11,Entregue,29.25,251111FF7NYXCP,907655196,Mantinha CoraÃÂ§ÃÂ£o  - Azul BebÃÂª,1,16.25
+913516116,35395,2025-11-11,Entregue,29.25,251111FF7NYXCP,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,16.25
+913516463,35397,2025-11-11,Entregue,33.66,2000009947831745,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913516485,35399,2025-11-11,Entregue,35.61,251111FJUFXQ7M,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.45
+913516502,35401,2025-11-11,Entregue,33.95,251111FKFSEG6P,834082968,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Preto - GG,1,29.75
+913516616,35402,2025-11-11,Entregue,24.57,251111FNFUTPQF,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.46
+913516697,35403,2025-11-11,Entregue,14.71,251111FR1PJV5B,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,15.99
+913516765,35404,2025-11-11,Entregue,67.8,2000009948307257,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,33.9
+913516765,35404,2025-11-11,Entregue,67.8,2000009948307257,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,33.9
+913516892,35405,2025-11-11,Entregue,27.27,251111FWHDEU35,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913516892,35405,2025-11-11,Entregue,27.27,251111FWHDEU35,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913516894,35406,2025-11-11,Entregue,14.71,251111FWPWX8CH,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,15.99
+913517060,35409,2025-11-11,Entregue,8.56,251111G25M3D7J,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,15.99
+913517127,35411,2025-11-11,Entregue,58.71,251111G33R919M,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913517127,35411,2025-11-11,Entregue,58.71,251111G33R919M,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913517177,35412,2025-11-11,Entregue,29.95,251111G3CQ9ED6,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,12.31
+913517177,35412,2025-11-11,Entregue,29.95,251111G3CQ9ED6,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,13.31
+913517475,35413,2025-11-11,Entregue,13.52,251111G3QU1R2M,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,12.66
+913517475,35413,2025-11-11,Entregue,13.52,251111G3QU1R2M,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,12.66
+913517684,35414,2025-11-11,Entregue,30.1,251111G48F5V03,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.45
+913517928,35416,2025-11-11,Entregue,14.71,251111G4YCK1FQ,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,15.99
+913518085,35417,2025-11-11,Entregue,35.97,251111G56KCRVK,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,15.99
+913518085,35417,2025-11-11,Entregue,35.97,251111G56KCRVK,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,15.99
+913518289,35418,2025-11-11,Entregue,22.65,251111G5EUGKP4,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,12.31
+913518289,35418,2025-11-11,Entregue,22.65,251111G5EUGKP4,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,12.31
+913520034,35423,2025-11-11,Entregue,21.74,251111G756YEAP,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,37.0
+913520225,35424,2025-11-11,Entregue,14.71,251111G7CRBBSH,907655219,Mantinha CoraÃÂ§ÃÂ£o  - Verde MarÃÂ©,1,16.0
+913520468,35425,2025-11-11,Entregue,63.98,2000009949384997,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913520468,35425,2025-11-11,Entregue,63.98,2000009949384997,906347112,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Amarelo,1,31.99
+913521733,35427,2025-11-11,Entregue,20.74,251111G8Q5D400,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913521989,35428,2025-11-11,Entregue,51.6,2000009949666327,0,Kit 2 Cobertor Bebe Menino Manta De Trico Para BebÃÂª Luxo Cor Rosa-claro Animais,1,51.6
+913522611,35430,2025-11-11,Entregue,28.8,251111G9XH6M2G,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,2,16.0
+913522620,35431,2025-11-11,Entregue,33.66,2000009949419689,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,33.66
+913524597,35433,2025-11-11,Entregue,14.72,251111GBXQCEEG,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913524739,35434,2025-11-11,Entregue,41.34,251111GC4EHG3H,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,24.62
+913524739,35434,2025-11-11,Entregue,41.34,251111GC4EHG3H,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913524751,35435,2025-11-11,Entregue,25.55,251111GC6XMVS7,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913525041,35436,2025-11-11,Entregue,33.65,251111GCP8STQC,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,37.0
+913525103,35438,2025-11-11,Entregue,39.23,251111GCT6N9MQ,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913525103,35438,2025-11-11,Entregue,39.23,251111GCT6N9MQ,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913525146,35440,2025-11-11,Entregue,14.16,251111GCXKT2QD,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913525721,35443,2025-11-11,Entregue,14.72,251111GD8P4RDG,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913525976,35445,2025-11-11,Entregue,31.99,2000009950838133,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913526162,35447,2025-11-11,Entregue,23.11,251111GDQ6KP3X,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913527105,35448,2025-11-11,Entregue,49.99,2000009951282577,912687609,Camiseta Boxy Oversized Estonada USB - Bege - M,1,49.99
+913527279,35449,2025-11-11,Entregue,23.69,251111GEWD61P5,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,30.86
+913528306,35450,2025-11-11,Entregue,67.32,2000009951581905,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,33.66
+913528306,35450,2025-11-11,Entregue,67.32,2000009951581905,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913529151,35453,2025-11-11,Entregue,58.1,251111GGRUTVMH,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913529151,35453,2025-11-11,Entregue,58.1,251111GGRUTVMH,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913529218,35454,2025-11-11,Entregue,31.99,2000009952031715,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913530633,35455,2025-11-11,Entregue,33.65,251111GHBV6SWJ,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,37.0
+913530792,35456,2025-11-11,Entregue,14.72,251111GHF6504R,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913530983,35458,2025-11-11,Entregue,63.98,2000009952319149,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913530983,35458,2025-11-11,Entregue,63.98,2000009952319149,906774445,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cinza,1,31.99
+913531038,35459,2025-11-11,Entregue,14.16,251111GHUGWJEJ,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913531094,35460,2025-11-11,Entregue,71.39,251111GJ1460YW,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913531094,35460,2025-11-11,Entregue,71.39,251111GJ1460YW,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913531269,35461,2025-11-11,Entregue,14.16,251111GJ55X28U,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913531421,35462,2025-11-11,Entregue,14.72,251111GJ8W4YWD,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913531664,35465,2025-11-11,Entregue,14.72,251111GJKGMGPA,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913532057,35466,2025-11-11,Entregue,32.83,251111GJVT72YA,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913532724,35467,2025-11-11,Entregue,67.32,2000009953105713,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,2,33.66
+913532978,35468,2025-11-11,Entregue,13.8,251111GKTC74MR,834115379,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Azul Marinho,1,15.0
+913533385,35469,2025-11-11,Entregue,62.48,251111GMCG18MW,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913533385,35469,2025-11-11,Entregue,62.48,251111GMCG18MW,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,25.91
+913533391,35470,2025-11-11,Entregue,6.72,251111GMD8W10X,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913534426,35475,2025-11-11,Entregue,14.72,251111GNHCQGUB,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913534450,35476,2025-11-11,Entregue,11.62,251111GNNH9AHT,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913534768,35477,2025-11-11,Entregue,14.72,251111GP7YKBTM,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913535148,35479,2025-11-11,Entregue,33.66,2000009954270257,834121579,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Mantinha BebÃÂª Verde,1,33.66
+913535307,35480,2025-11-11,Entregue,68.71,251111GPUH6N6G,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913535307,35480,2025-11-11,Entregue,68.71,251111GPUH6N6G,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913535676,35482,2025-11-11,Entregue,32.27,251111GQ99TYVG,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913535685,35483,2025-11-11,Entregue,14.16,251111GQA88XK0,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913536044,35486,2025-11-11,Entregue,56.89,251111GR2MD2T8,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,24.62
+913536044,35486,2025-11-11,Entregue,56.89,251111GR2MD2T8,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913536323,35487,2025-11-11,Entregue,14.72,251111GRD8UUTX,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,16.0
+913536878,35489,2025-11-11,Entregue,14.16,251112GS34V55U,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913537383,35491,2025-11-11,Entregue,23.65,251112GSP86D9D,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,37.0
+913538798,35495,2025-11-11,Entregue,14.16,251112GV1G7MTC,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913539367,35498,2025-11-11,Entregue,29.23,251112GVU77FDF,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913539367,35498,2025-11-11,Entregue,29.23,251112GVU77FDF,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,25.91
+913539380,35499,2025-11-11,Entregue,49.8,GSH1Q157000NHGL,834122876,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Preto - G,1,49.8
+913541580,35502,2025-11-11,Entregue,11.15,251112GX193H22,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913543044,35503,2025-11-11,Entregue,49.24,251112GY3GUWCT,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913543044,35503,2025-11-11,Entregue,49.24,251112GY3GUWCT,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,24.62
+913543160,35505,2025-11-11,Entregue,31.99,2000009957636545,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913543384,35506,2025-11-11,Entregue,15.38,251112GYP3Y6H7,907655196,Mantinha CoraÃÂ§ÃÂ£o  - Azul BebÃÂª,1,32.05
+913543727,35508,2025-11-11,Entregue,34.03,251112H0ARU2E6,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913545346,35510,2025-11-11,Entregue,14.72,251112H14FVDD8,906774445,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cinza,1,16.0
+913545690,35511,2025-11-11,Entregue,53.1,251112H16GNX3B,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913545690,35511,2025-11-11,Entregue,53.1,251112H16GNX3B,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.91
+913547721,35518,2025-11-11,Entregue,54.29,251112H3B41NB9,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913547721,35518,2025-11-11,Entregue,54.29,251112H3B41NB9,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913547726,35519,2025-11-11,Entregue,48.75,2000009958962955,834087375,Blusa De Frio Masculina LÃÂ£ Gola Alta Segunda Pele TricÃÂ´ - Preto - Liso - G,1,48.75
+913548033,35520,2025-11-11,Entregue,31.99,2000009959122589,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.99
+913549214,35521,2025-11-11,Entregue,14.72,251112H4MRAS4Q,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913549299,35522,2025-11-11,Entregue,14.72,251112H4V4V3R8,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913549415,35523,2025-11-11,Entregue,31.99,2000009959730827,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.99
+913549832,35527,2025-11-11,Entregue,16.39,251112H5SYGT5F,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.25
+913550703,35529,2025-11-11,Entregue,14.72,251112H7S92QNS,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,16.0
+913551037,35531,2025-11-11,Entregue,14.72,251112H8P29XWX,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913551310,35532,2025-11-11,Entregue,30.15,251112H99YDUTS,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913552236,35536,2025-11-11,Entregue,16.16,251112HBFBGUVS,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913552267,35537,2025-11-11,Entregue,27.03,251112HBJDRDDM,834082968,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Preto - GG,1,30.0
+913552314,35538,2025-11-11,Entregue,53.89,2000009962106399,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,26.95
+913552314,35538,2025-11-11,Entregue,53.89,2000009962106399,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,26.94
+913552714,35540,2025-11-11,Entregue,22.43,251112HD94NYVT,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913552859,35544,2025-11-11,Entregue,29.43,251112HDRB2KHD,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,16.25
+913552868,35545,2025-11-11,Entregue,47.06,251112HDR96HFY,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913552991,35547,2025-11-11,Entregue,30.15,251112HE2VPY35,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.5
+913553217,35549,2025-11-11,Entregue,20.14,251112HEFJ1WVB,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,16.0
+913553229,35550,2025-11-11,Entregue,47.27,251112HEHKSTP4,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,24.62
+913553229,35550,2025-11-11,Entregue,47.27,251112HEHKSTP4,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913553275,35551,2025-11-11,Entregue,31.99,2000009963219859,909003608,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Verde,1,31.99
+913553473,35553,2025-11-11,Entregue,25.74,251112HEXHP85Q,905443788,CAMISETA GOLA POLO TEXTURA  - Preto - M,1,27.0
+913553816,35556,2025-11-11,Entregue,14.72,251112HFUR9D3X,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913553935,35558,2025-11-11,Entregue,33.66,2000009963763959,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,33.66
+913554027,35559,2025-11-11,Entregue,10.15,251112HGAM5J9K,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913554186,35562,2025-11-11,Entregue,10.15,251112HGT34WBC,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913554190,35563,2025-11-11,Entregue,8.63,251112HGSRNFVJ,907655200,Mantinha CoraÃÂ§ÃÂ£o  - Cinza,1,16.0
+913554660,35568,2025-11-11,Entregue,15.35,251112HHHW4S6Q,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,31.99
+913555215,35570,2025-11-11,Entregue,28.25,251112HHYHXA90,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913555215,35570,2025-11-11,Entregue,28.25,251112HHYHXA90,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913555343,35571,2025-11-11,Entregue,14.72,251112HJBYKAKG,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913555557,35576,2025-11-11,Entregue,14.72,251112HK57AXVV,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913555829,35579,2025-11-11,Entregue,14.16,251112HKQKSHA9,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913556173,35582,2025-11-11,Entregue,22.12,251112HMNVP3CP,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,16.0
+913556294,35583,2025-11-11,Entregue,14.72,251112HN05QAT5,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,16.0
+913556505,35585,2025-11-11,Entregue,31.99,2000009965992825,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,31.99
+913556829,35590,2025-11-11,Entregue,47.27,251112HPJP7JX3,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,24.62
+913556829,35590,2025-11-11,Entregue,47.27,251112HPJP7JX3,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913557033,35596,2025-11-11,Entregue,14.72,251112HQC2RW9E,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913557058,35597,2025-11-11,Entregue,59.11,2000009966820937,834097146,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Bege - TranÃÂ§a,1,59.11
+913557118,35600,2025-11-11,Entregue,14.16,251112HQQA7THX,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913557247,35606,2025-11-11,Entregue,30.15,251112HR656KC6,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913557315,35607,2025-11-11,Entregue,30.15,251112HRENX0TN,834088802,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Saida Maternidade Menino Trico Azul BB - UN,1,33.5
+913557851,35612,2025-11-11,Entregue,28.25,251112HTQPFV14,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913557851,35612,2025-11-11,Entregue,28.25,251112HTQPFV14,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913558180,35619,2025-11-11,Entregue,52.69,251112HV5J5R35,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913558180,35619,2025-11-11,Entregue,52.69,251112HV5J5R35,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913558704,35624,2025-11-11,Entregue,70.0,GSH1Q103Q00MX4J,909556986,Blusa Masculina Fang Intarsia Kl - P - Camil,1,70.0
+913558932,35628,2025-11-11,Entregue,125.98,2000009969593015,834098574,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Cinza - TranÃÂ§a,2,62.99
+913558830,35626,2025-11-12,Entregue,56.89,251112HYA2X3MR,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913558830,35626,2025-11-12,Entregue,56.89,251112HYA2X3MR,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913558960,35629,2025-11-12,Entregue,15.4,251112J19STTUM,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913559429,35630,2025-11-12,Entregue,27.03,251112JGJ1WFBQ,834083145,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Cinza - M,1,30.0
+913563974,35632,2025-11-12,Entregue,26.88,2000013784890354,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,26.88
+913564296,35633,2025-11-12,Entregue,106.74,2000009971431417,834097650,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Grafite - TranÃÂ§a,1,53.36
+913564296,35633,2025-11-12,Entregue,106.74,2000009971431417,834097717,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Cinza Escuro - 45x45,2,26.69
+913565340,35636,2025-11-12,Entregue,62.99,2000009971846671,834097650,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Grafite - TranÃÂ§a,1,62.99
+913566367,35640,2025-11-12,Entregue,62.46,2000009972265605,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,2,31.23
+913566795,35642,2025-11-12,Entregue,14.16,251112JWTE6EWW,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913568073,35643,2025-11-12,Entregue,49.23,251112JXU1H914,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913568073,35643,2025-11-12,Entregue,49.23,251112JXU1H914,906342892,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Vermelho,1,25.91
+913568221,35645,2025-11-12,Entregue,30.15,251112JY24JCPM,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.5
+913569021,35647,2025-11-12,Entregue,31.23,2000009973023957,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.23
+913569023,35648,2025-11-12,Entregue,23.78,251112JYYHS9WG,906774462,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913569738,35650,2025-11-12,Entregue,55.66,251112K15C285V,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913569738,35650,2025-11-12,Entregue,55.66,251112K15C285V,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913570227,35651,2025-11-12,Entregue,14.72,251112K1P7SH7Q,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,16.0
+913572951,35654,2025-11-12,Entregue,26.88,2000009974877667,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,26.88
+913573243,35656,2025-11-12,Entregue,55.66,251112K6S9B1G6,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913573243,35656,2025-11-12,Entregue,55.66,251112K6S9B1G6,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,24.62
+913574346,35660,2025-11-12,Entregue,31.23,2000013788751450,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,31.23
+913574401,35661,2025-11-12,Entregue,26.88,2000009975831873,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,26.88
+913574649,35662,2025-11-12,Entregue,14.72,251113K9RBJDJ4,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913574784,35663,2025-11-12,Entregue,14.72,251113KA0W9HCE,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913578112,35667,2025-11-12,Entregue,49.23,251113KE55Q4NG,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.92
+913578112,35667,2025-11-12,Entregue,49.23,251113KE55Q4NG,906774445,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Cinza,1,25.91
+913578113,35668,2025-11-12,Entregue,47.27,251113KE5TP9RG,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913578113,35668,2025-11-12,Entregue,47.27,251113KE5TP9RG,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,24.62
+913579258,35670,2025-11-12,Entregue,106.74,2000009977815273,834097650,Peseira TranÃÂ§a TricÃÂ´ TIRADENTES Cama Casal Queen 230x60 cm - Grafite - TranÃÂ§a,1,53.36
+913579258,35670,2025-11-12,Entregue,106.74,2000009977815273,834097717,Capa de Almofada TricÃÂ´ Decorativa 45x45 Luxo TranÃÂ§a - Cinza Escuro - 45x45,2,26.69
+913579663,35671,2025-11-12,Entregue,23.78,251113KG41Y4YG,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,15.4
+913580937,35673,2025-11-12,Entregue,14.95,251113KHJX379X,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,16.25
+913582632,35674,2025-11-12,Entregue,24.57,251113KMAD37UN,907655200,Mantinha CoraÃÂ§ÃÂ£o  - Cinza,1,16.25
+913584879,35678,2025-11-12,Entregue,49.9,2000009979946355,912687675,Camiseta Boxy Oversized Estonada USB - Preto - GG,1,49.9
+913586347,35680,2025-11-12,Entregue,50.16,2000009980428859,0,Kit 2 Cobertor Bebe Menino Manta De Trico Para BebÃÂª Luxo Cor Rosa-claro Animais,1,50.16
+913587274,35684,2025-11-12,Entregue,22.95,251113KVBEG2AD,0,"Conjunto Twin Set Tricot Feminino CardigÃÂ£ Manga Longa + Regata Estilo Casual Elegante - Bege Claro,P ao G",1,24.95
+913587369,35685,2025-11-12,Entregue,14.72,251113KVW2536A,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913587897,35691,2025-11-12,Entregue,49.8,GSH1Q254U00NV8R,834122817,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Preto - M,1,49.8
+913587929,35693,2025-11-12,Entregue,78.0,2000009982264907,838027419,Cardigan Casaco Feminino Senhora Trico LÃÂ£ G - G - Preto,1,78.0
+913588273,35694,2025-11-12,Entregue,18.92,251113M1AG9D3T,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913588348,35697,2025-11-12,Entregue,49.05,251113M1S5FJHS,905443838,CAMISETA GOLA POLO TEXTURA  - Areia - GG,1,27.0
+913588348,35697,2025-11-12,Entregue,49.05,251113M1S5FJHS,905443798,CAMISETA GOLA POLO TEXTURA  - Preto - GG,1,27.5
+913589121,35699,2025-11-12,Entregue,26.88,2000009984047307,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,26.88
+913589348,35704,2025-11-12,Entregue,26.88,2000009984483711,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,26.88
+913589841,35706,2025-11-12,Entregue,49.92,251113M94BW77V,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913589841,35706,2025-11-12,Entregue,49.92,251113M94BW77V,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913590297,35709,2025-11-12,Entregue,47.27,251113MBVC2D58,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913590297,35709,2025-11-12,Entregue,47.27,251113MBVC2D58,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,24.62
+913590448,35710,2025-11-12,Entregue,37.85,251113MDHWVEND,834082644,Blusa Cardigan Casaco Trico LÃÂ£ Masculina Escocesa - Vermelho - M,1,30.0
+913590657,35711,2025-11-12,Entregue,54.31,2000009986605009,834125935,Manta TranÃÂ§a 140cm X 60cm - Grafite,1,54.31
+913590804,35712,2025-11-13,Entregue,28.8,251113MHB2HNH1,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,2,16.0
+913598367,35722,2025-11-13,Entregue,50.16,2000013801089880,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.08
+913598367,35722,2025-11-13,Entregue,50.16,2000013801089880,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.08
+913598778,35723,2025-11-13,Entregue,37.87,251113NE5XYF5R,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,15.4
+913598778,35723,2025-11-13,Entregue,37.87,251113NE5XYF5R,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913599482,35724,2025-11-13,Entregue,33.9,2000009990131955,907655210,Mantinha CoraÃÂ§ÃÂ£o  - Rosa,1,33.9
+913600328,35725,2025-11-13,Entregue,60.52,251113NHDPQ7CS,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,24.62
+913600328,35725,2025-11-13,Entregue,60.52,251113NHDPQ7CS,834120003,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Rosa,1,24.62
+913600668,35726,2025-11-13,Entregue,31.23,2000009990874117,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.23
+913600755,35727,2025-11-13,Entregue,31.23,2000009990917645,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.23
+913602547,35731,2025-11-13,Entregue,50.16,2000009992067945,0,Kit 2 Cobertor Bebe Menino Manta De Trico Para BebÃÂª Luxo Cor Rosa-claro Animais,1,50.16
+913603698,35736,2025-11-13,Entregue,28.6,251113NSA1F252,909260113,Manta Cobertor BebÃÂª Nana NenÃÂ©m Jacard - Azul BebÃÂª,1,29.8
+913611279,35746,2025-11-13,Entregue,14.72,251114P577VS66,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,16.0
+913614830,35754,2025-11-13,Entregue,31.23,2000013810769624,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.23
+913614952,35756,2025-11-13,Entregue,50.16,2000010000687747,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,25.08
+913614952,35756,2025-11-13,Entregue,50.16,2000010000687747,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,25.08
+913615659,35758,2025-11-13,Entregue,14.72,251114PM6TG0F0,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913616109,35763,2025-11-13,Entregue,44.27,251114PQ5DDTW2,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,12.3
+913616109,35763,2025-11-13,Entregue,44.27,251114PQ5DDTW2,834119954,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Azul BB,1,12.3
+913616109,35763,2025-11-13,Entregue,44.27,251114PQ5DDTW2,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,12.3
+913616109,35763,2025-11-13,Entregue,44.27,251114PQ5DDTW2,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,12.3
+913616658,35766,2025-11-13,Entregue,14.72,251114PT4727W9,834120156,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Vermelho,1,16.0
+913616718,35771,2025-11-13,Entregue,21.9,251114PTMBW5TD,834120643,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Branco,1,16.0
+913616978,35773,2025-11-13,Entregue,31.23,2000010004160883,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,31.23
+913619453,35784,2025-11-14,Entregue,31.23,2000013816881322,906342877,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Azul BB,1,31.23
+913622784,35786,2025-11-14,Entregue,67.32,2000010007626375,834119888,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cinza,1,33.66
+913622784,35786,2025-11-14,Entregue,67.32,2000010007626375,834121642,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha - Cobertor Saida Maternidade Azul Marinho,1,33.66
+913630123,35802,2025-11-14,Entregue,22.0,251114R8AQRMW1,906774455,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Branco,1,12.3
+913630123,35802,2025-11-14,Entregue,22.0,251114R8AQRMW1,906342881,Coberta De BebÃÂª Em TricÃÂ´ Manta Super Quentinha BICHINHO - Rosa,1,12.3
+913631248,35805,2025-11-14,Entregue,37.33,251115RBGKFACQ,834088598,Kit SaÃÂ­da Maternidade Tricot 2 PeÃÂ§as Completa Menino Menina - Kit Manta Conjunto Maternidade Cinza - UN,1,33.5
+913675147,35958,2025-11-17,Entregue,49.8,GSH1Q3646000X3Q,834122817,Colete PulÃÂ´ver Masculino LÃÂ£ Losango Trico Frio Gola V Social - Colete Social Preto - M,1,49.8

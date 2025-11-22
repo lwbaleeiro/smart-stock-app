@@ -1,0 +1,91 @@
+{
+	"retorno": {
+		"status_processamento": "3",
+		"status": "OK",
+		"pedido": {
+			"id": "905822432",
+			"numero": "17994",
+			"numero_ecommerce": "24112576B2AYE7",
+			"data_pedido": "25/11/2024",
+			"data_prevista": "",
+			"data_faturamento": "25/11/2024",
+			"data_envio": "25/11/2024",
+			"data_entrega": "05/12/2024",
+			"id_lista_preco": "0",
+			"descricao_lista_preco": "Padrão",
+			"cliente": {
+				"nome": "Graziela Letícia Born Schibelbein",
+				"codigo": "",
+				"nome_fantasia": null,
+				"tipo_pessoa": "F",
+				"cpf_cnpj": "127.148.099-95",
+				"ie": "",
+				"rg": "",
+				"endereco": "R Jorn José P dos Santos",
+				"numero": "594",
+				"complemento": "",
+				"bairro": "Ganchinho",
+				"cidade": "Curitiba",
+				"uf": "PR",
+				"fone": "",
+				"email": "",
+				"cep": "81.935-430"
+			},
+			"itens": [
+				{
+					"item": {
+						"id_produto": "815042144",
+						"codigo": "BA1045-12",
+						"descricao": "Coberta De Bebê Em Tricô Manta Super Quentinha - Vermelho",
+						"unidade": "UN",
+						"quantidade": "1.00",
+						"valor_unitario": "18.00"
+					}
+				}
+			],
+			"parcelas": [],
+			"marcadores": [
+				{
+					"marcador": {
+						"id": "171704",
+						"descricao": "1ª venda",
+						"cor": "#808080"
+					}
+				}
+			],
+			"condicao_pagamento": "",
+			"forma_pagamento": "",
+			"meio_pagamento": null,
+			"nome_transportador": "",
+			"frete_por_conta": "R",
+			"valor_frete": "0.00",
+			"valor_desconto": 1.8,
+			"outras_despesas": "0.00",
+			"total_produtos": "18.00",
+			"total_pedido": "16.20",
+			"numero_ordem_compra": "24112576B2AYE7",
+			"deposito": "Geral",
+			"ecommerce": {
+				"id": "7850",
+				"numeroPedidoEcommerce": "24112576B2AYE7",
+				"numeroPedidoCanalVenda": "",
+				"nomeEcommerce": "Shopee"
+			},
+			"forma_envio": "SHOPEE_ENVIOS",
+			"situacao": "Entregue",
+			"obs": "Ref. ao pedido número 24112576B2AYE7",
+			"obs_interna": "R Jorn José P dos Santos, 594, Em frente a Madial Lanches, Curitiba, Paraná, 81935430",
+			"id_vendedor": "0",
+			"codigo_rastreamento": "",
+			"url_rastreamento": "",
+			"id_nota_fiscal": "905825291",
+			"pagamentos_integrados": [],
+			"intermediador": {
+				"nome": "Shopee",
+				"cnpj": "35.635.824/0001-12",
+				"cnpjPagamento": ""
+			},
+			"id_natureza_operacao": "833308670"
+		}
+	}
+}

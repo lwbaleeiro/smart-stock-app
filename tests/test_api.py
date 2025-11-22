@@ -10,7 +10,7 @@ from fastapi.testclient import TestClient
 from app.api.main import app
 
 # --- Dados de Exemplo ---
-PRODUCTS_CSV = "produto_id,produto_nome,produto_codigo,produto_preco\n101,Caneta,PRD101,1.50"
+PRODUCTS_CSV = "produto_id,produto_nome,produto_codigo,produto_preco,produto_estoque_atual\n101,Caneta,PRD101,1.50,100.0"
 SALES_CSV = (
     "produto_id,produto_nome,valor_unitario,valor_total_pedido,quantidade,situacao,data_pedido\n"
     + "\n".join([f"101,Caneta,1.50,15.00,{10 + i},Entregue,{i:02d}/10/2023" for i in range(1, 21)])

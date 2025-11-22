@@ -26,6 +26,7 @@ def clean_products_data(file_obj: BinaryIO) -> pd.DataFrame:
 
     # Corrigir tipos de dados
     df['produto_preco'] = pd.to_numeric(df['produto_preco'], errors='coerce')
+    df['produto_estoque_atual'] = pd.to_numeric(df['produto_estoque_atual'], errors='coerce')
 
     # Remover nulos em colunas críticas
     # Remover nulos em colunas críticas

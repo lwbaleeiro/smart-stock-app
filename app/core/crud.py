@@ -16,8 +16,9 @@ def save_products_to_db(db: Session, products_df: pd.DataFrame):
             db_product = Product(
                 id=product_id,
                 name=row['produto_nome'],
-                description=row.get('descricao'), # Not present in new CSV, will be None
-                category=row.get('categoria')     # Not present in new CSV, will be None
+                code=row['produto_codigo'],
+                price=row['produto_preco'],
+                stock=row['produto_estoque_atual']
             )
             db.add(db_product)
     db.commit()

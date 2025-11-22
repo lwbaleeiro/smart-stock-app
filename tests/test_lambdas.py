@@ -22,7 +22,7 @@ def mock_s3_event():
 @patch("lambdas.process_handler.main.s3_client")
 def test_process_handler_products(mock_s3, mock_s3_event):
     # Mock S3 get_object
-    csv_content = "produto_id,produto_nome,produto_codigo,produto_preco\n1,Produto A,PRD1,10.0"
+    csv_content = "produto_id,produto_nome,produto_codigo,produto_preco,produto_estoque_atual\n1,Produto A,PRD1,10.0,100.0"
     mock_s3.get_object.return_value = {
         "Body": io.BytesIO(csv_content.encode("utf-8"))
     }
@@ -69,7 +69,8 @@ def test_predict_handler(mock_save_preds, mock_save_prods, mock_db, mock_s3):
         "produto_id": [1],
         "produto_nome": ["Produto A"],
         "produto_codigo": ["PRD1"],
-        "produto_preco": [10.0]
+        "produto_preco": [10.0],
+        "produto_estoque_atual": [100.0]
     })
 
     sales_buffer = io.BytesIO()

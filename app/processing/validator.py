@@ -36,7 +36,7 @@ def validate_csv(file_obj: BinaryIO, expected_columns: List[str]) -> Tuple[bool,
 
 # Definindo as colunas esperadas para cada tipo de arquivo
 PRODUCT_COLUMNS = [
-    "produto_id", "produto_nome", "produto_codigo", "produto_preco"
+    "produto_id", "produto_nome", "produto_codigo", "produto_preco", "produto_estoque_atual"
 ]
 
 SALES_COLUMNS = [

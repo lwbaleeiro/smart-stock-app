@@ -21,8 +21,9 @@ class Product(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     name = Column(String, index=True)
-    description = Column(String, nullable=True)
-    category = Column(String, nullable=True)
+    code = Column(String, index=True)
+    price = Column(Float)
+    stock = Column(Float)
 
     predictions = relationship("Prediction", back_populates="product")
 

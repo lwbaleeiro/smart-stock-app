@@ -25,7 +25,8 @@ def db_session():
 def test_save_products_to_db(db_session):
     products_data = {
         'produto_id': [1, 2], 'produto_nome': ['Caneta', 'Lapis'],
-        'produto_codigo': ['PRD1', 'PRD2'],        'produto_preco': [10.0, 20.0]
+        'produto_codigo': ['PRD1', 'PRD2'], 'produto_preco': [10.0, 20.0],
+        'produto_estoque_atual': [100.0, 50.0]
     }
     products_df = pd.DataFrame(products_data)
     save_products_to_db(db_session, products_df)

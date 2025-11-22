@@ -9,7 +9,7 @@ def test_validate_csv_valid():
     """
     Testa a validação de um CSV com colunas válidas.
     """
-    csv_content = "produto_id,produto_nome,produto_codigo,produto_preco\n906774455,Coberta,PRD906774455,31.99"
+    csv_content = "produto_id,produto_nome,produto_codigo,produto_preco,produto_estoque_atual\n906774455,Coberta,PRD906774455,31.99,100.0"
     file = io.BytesIO(csv_content.encode('utf-8'))
     upload_file = UploadFile(filename="products.csv", file=file)
 
@@ -48,12 +48,12 @@ def test_clean_products_data():
     Testa a função de limpeza de dados de produtos.
     """
     csv_content = (
-        "produto_id,produto_nome,produto_codigo,produto_preco\n"
-        "1,Caneta,PRD1,1.50\n"
-        "2,Lapis,PRD2,0.80\n"
-        "1,Caneta,PRD1,1.50\n"  # Duplicata de ID
-        ",Caderno,,12.00\n"  # ID nulo
-        "4,Borracha,PRD4,invalid\n" # Preço inválido
+        "produto_id,produto_nome,produto_codigo,produto_preco,produto_estoque_atual\n"
+        "1,Caneta,PRD1,1.50,100.0\n"
+        "2,Lapis,PRD2,0.80,50.0\n"
+        "1,Caneta,PRD1,1.50,100.0\n"  # Duplicata de ID
+        ",Caderno,,12.00,20.0\n"  # ID nulo
+        "4,Borracha,PRD4,invalid,10.0\n" # Preço inválido
     )
     file = io.BytesIO(csv_content.encode('utf-8'))
     upload_file = UploadFile(filename="products.csv", file=file)

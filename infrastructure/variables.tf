@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "project_name" {
   description = "Project Name"
-  default     = "quantyfy"
+  default     = "smart-stock"
 }
 
 variable "environment" {

@@ -8,7 +8,7 @@ def log_metric(
     value: float,
     unit: str = "Count",
     dimensions: Optional[Dict[str, str]] = None,
-    namespace: str = "Quantyfy"
+    namespace: str = "Smart Stock"
 ):
     """
     Loga uma métrica no formato JSON.

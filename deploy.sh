@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Script de Deploy para o Quantyfy MVP
+# Script de Deploy para o Smart Stock
 # Requisitos: AWS CLI configurado, Docker, Terraform, Zip
 
 set -e
 
-PROJECT_NAME="quantyfy"
+PROJECT_NAME="smart-stock"
 REGION="us-east-1"
 ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
 ECR_REPO="${ACCOUNT_ID}.dkr.ecr.${REGION}.amazonaws.com/${PROJECT_NAME}-api"

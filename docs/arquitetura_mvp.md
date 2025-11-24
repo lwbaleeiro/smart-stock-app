@@ -78,8 +78,8 @@
 
 ## **Estrutura do Projeto**
 
-```
-quantyfy-app-mvp/
+``` 
+smart-stock-app/
 │
 ├── app/
 │   ├── api/

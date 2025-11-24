@@ -28,7 +28,7 @@ class JSONFormatter(logging.Formatter):
 
         return json.dumps(log_record)
 
-def configure_logger(name: str = "quantyfy", level: str = "INFO"):
+def configure_logger(name: str = "smart-stock", level: str = "INFO"):
     """
     Configura o logger raiz para usar o formato JSON.
     """

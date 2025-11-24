@@ -12,7 +12,7 @@ def mock_s3_event():
         "Records": [
             {
                 "s3": {
-                    "bucket": {"name": "quantyfy-bucket"},
+                    "bucket": {"name": "smart-stock-bucket"},
                     "object": {"key": "raw/products_20231120.csv"}
                 }
             }
@@ -35,7 +35,7 @@ def test_process_handler_products(mock_s3, mock_s3_event):
     mock_s3.upload_fileobj.assert_called_once()
     args, _ = mock_s3.upload_fileobj.call_args
     bucket, key = args[1], args[2]
-    assert bucket == "quantyfy-bucket"
+    assert bucket == "smart-stock-bucket"
     assert key == "processed/products_20231120.parquet"
 
 @patch("lambdas.predict_handler.main.s3_client")
@@ -48,7 +48,7 @@ def test_predict_handler(mock_save_preds, mock_save_prods, mock_db, mock_s3):
         "Records": [
             {
                 "s3": {
-                    "bucket": {"name": "quantyfy-bucket"},
+                    "bucket": {"name": "smart-stock-bucket"},
                     "object": {"key": "processed/sales_20231120.parquet"}
                 }
             }

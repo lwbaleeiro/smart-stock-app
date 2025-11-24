@@ -13,15 +13,15 @@ async def lifespan(app: FastAPI):
     print("Encerrando aplicação...")
 
 app = FastAPI(
-    title="Quantyfy API",
-    description="API para a plataforma de inteligência preditiva Quantyfy.",
+    title="Smart Stock API",
+    description="API para a plataforma de inteligência preditiva Smart Stock.",
     version="0.1.0",
     lifespan=lifespan
 )
 
 @app.get("/", tags=["Root"])
 def read_root():
-    return {"message": "Bem-vindo à API Quantyfy!"}
+    return {"message": "Bem-vindo à API Smart Stock!"}
 
 # Routers
 app.include_router(health.router, prefix="/health", tags=["Health"])

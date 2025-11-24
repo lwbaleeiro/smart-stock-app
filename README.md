@@ -1,6 +1,6 @@
-# Quantyfy API
+# Smart Stock App
 
-Quantyfy é uma plataforma de inteligência preditiva que ajuda e-commerces e empresas de varejo a prever demandas futuras, otimizando a gestão de estoque e compras.
+Smart Stock App é uma plataforma de inteligência preditiva que ajuda e-commerces e empresas de varejo a prever demandas futuras, otimizando a gestão de estoque e compras.
 
 ## Arquitetura e Fluxo
 
@@ -101,7 +101,7 @@ O ambiente de desenvolvimento utiliza Docker e Docker Compose para orquestrar a 
 ## Estrutura do Projeto
 
 ```
-quantyfy-app-mvp/
+smart-stock-app/
 │
 ├── app/                         # Código da Aplicação (FastAPI + ML)
 │   ├── api/                     # Rotas e Dependências
@@ -154,6 +154,7 @@ Um script automatizado `deploy.sh` foi criado para facilitar o processo. Ele rea
 
 ```bash
 # No Windows (Git Bash ou WSL)
+export TF_VAR_db_password="SuaSenhaSuperSegura123"
 ./deploy.sh
 ```
 
